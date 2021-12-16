@@ -3,6 +3,10 @@
 [![Documentation Status](https://readthedocs.org/projects/lineax/badge/?version=latest)](https://lineax.readthedocs.io/en/latest/?badge=latest)
 [![CircleCI](https://circleci.com/gh/KOSASIH/Lineax/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Lineax/tree/main)
 [![Build status](https://ci.appveyor.com/api/projects/status/n6ek87ux8o6al57s?svg=true)](https://ci.appveyor.com/project/KOSASIH/lineax)
+[![GitHub issues](https://img.shields.io/github/issues/KOSASIH/Lineax)](https://github.com/KOSASIH/Lineax/issues)
+[![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Lineax)](https://github.com/KOSASIH/Lineax/network)
+[![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Lineax)](https://github.com/KOSASIH/Lineax/stargazers)
+[![GitHub license](https://img.shields.io/github/license/KOSASIH/Lineax)](https://github.com/KOSASIH/Lineax/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)
 
 
