@@ -3,6 +3,8 @@
 [![Documentation Status](https://readthedocs.org/projects/lineax/badge/?version=latest)](https://lineax.readthedocs.io/en/latest/?badge=latest)
 [![CircleCI](https://circleci.com/gh/KOSASIH/Lineax/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Lineax/tree/main)
 [![Build status](https://ci.appveyor.com/api/projects/status/n6ek87ux8o6al57s?svg=true)](https://ci.appveyor.com/project/KOSASIH/lineax)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)
+
 
 # Lineax
 Digytal asset management tools
