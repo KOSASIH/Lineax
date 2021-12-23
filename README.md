@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Lineax)](https://github.com/KOSASIH/Lineax/stargazers)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/Lineax)](https://github.com/KOSASIH/Lineax/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)
-
+[![codecov](https://codecov.io/gh/KOSASIH/Lineax/branch/main/graph/badge.svg?token=U0TNBSNUJC)](https://codecov.io/gh/KOSASIH/Lineax)
 
 # Lineax
 Digytal asset management tools
