@@ -10,6 +10,8 @@
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)
 [![codecov](https://codecov.io/gh/KOSASIH/Lineax/branch/main/graph/badge.svg?token=U0TNBSNUJC)](https://codecov.io/gh/KOSASIH/Lineax)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5482/badge)](https://bestpractices.coreinfrastructure.org/projects/5482)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
+
 
 # Lineax
 Digytal asset management tools
