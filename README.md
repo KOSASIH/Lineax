@@ -11,6 +11,7 @@
 [![codecov](https://codecov.io/gh/KOSASIH/Lineax/branch/main/graph/badge.svg?token=U0TNBSNUJC)](https://codecov.io/gh/KOSASIH/Lineax)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5482/badge)](https://bestpractices.coreinfrastructure.org/projects/5482)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSASIH&theme=blue-green)
 
 
 # Lineax
