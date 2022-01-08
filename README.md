@@ -9,7 +9,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Lineax)](https://github.com/KOSASIH/Lineax/stargazers)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/Lineax)](https://github.com/KOSASIH/Lineax/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)
-[![codecov](https://codecov.io/gh/KOSASIH/Lineax/branch/main/graph/badge.svg?token=U0TNBSNUJC)](https://codecov.io/gh/KOSASIH/Lineax)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5482/badge)](https://bestpractices.coreinfrastructure.org/projects/5482)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSASIH&theme=blue-green)
@@ -23,7 +22,10 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 # Lineax
-Digytal asset management tools
+Digytal asset management tools of future work
+
+# Before you join and build your project, check out our campaigns here : :
+https://worker.effect.ai/campaigns/293/submissions/
 
 # You can join Effect force here :
 https://account.effect.ai/login?redirect=https%3A%2F%2Fworker.effect.ai%2F
