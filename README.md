@@ -24,3 +24,6 @@
 
 # Lineax
 Digytal asset management tools
+
+# You can join Effect force here :
+https://account.effect.ai/login?redirect=https%3A%2F%2Fworker.effect.ai%2F
