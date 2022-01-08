@@ -24,7 +24,7 @@
 # Lineax
 Digytal asset management tools of future work
 
-# Before you join and build your project, check out our campaigns here : :
+# Before you join and build your project, check out our campaigns here : 
 https://worker.effect.ai/campaigns/293/submissions/
 
 # You can join Effect force here :
